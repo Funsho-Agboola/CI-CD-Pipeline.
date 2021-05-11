@@ -1,4 +1,4 @@
-This is a Django project that runs a single page web application. This repository is used in conjunction with an article that was written on [Medium](https://medium.com/@vahiwe/build-a-django-ci-cd-pipeline-using-jenkins-e90cbe098970?sk=3bdfb50a12ae9cadda426b1463a442b9). It allows one eliminate the admin overhead that comes with testing your Django project in a production like environment. This will allow you make changes and see the effects almost immediately.
+This is a Django project that runs a single page web application. This repository is used in conjunction with an article that was written on [Medium](https://medium.com/@Fz-M/build-a-django-ci-cd-pipeline-using-jenkins-e90cbe098970?sk=3bdfb50a12ae9cadda426b1463a442b9). It allows one eliminate the admin overhead that comes with testing your Django project in a production like environment. This will allow you make changes and see the effects almost immediately.
 
 ## :page_with_curl:  _Instructions If Following The Medium Article_
 
@@ -24,7 +24,7 @@ This is a Django project that runs a single page web application. This repositor
 
 **1)** Fire up your favourite console & clone this repo somewhere:
 
-__`❍ git clone https://github.com/vahiwe/Django-CI-CD-Pipeline.git`__
+__`❍ git clone https://github.com/Fz-M/Django-CI-CD-Pipeline.git`__
 
 **2)** Enter this directory:
 
@@ -38,4 +38,4 @@ __`❍ python manage.py runserver `__
 
 __`❍ http://127.0.0.1:8000/`__
 
-__*Happy developing!*__
+__*Enjoy developing!*__
