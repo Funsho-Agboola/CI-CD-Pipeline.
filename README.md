@@ -24,7 +24,7 @@ This is a Django project that runs a single page web application. This repositor
 
 **1)** Fire up your favourite console & clone this repo somewhere:
 
-__`❍ git clone https://github.com/Fz-M/Django-CI-CD-Pipeline.git`__
+__`❍ git clone https://github.com/Funsho-Agboola/Django-CI-CD-Pipeline.git`__
 
 **2)** Enter this directory:
 
